@@ -1,8 +1,8 @@
 class EngagerAgent < Formula
   desc "Local autonomous runner for Engager agent-led campaigns"
   homepage "https://github.com/slavayosome/engager-agent"
-  url "https://registry.npmjs.org/engager-agent/-/engager-agent-0.6.0.tgz"
-  sha256 "be177d1a6330707dbe9ca22ab73368dfbf764f00fefccd117e20dbcc664d5de2"
+  url "https://registry.npmjs.org/engager-agent/-/engager-agent-0.7.0.tgz"
+  sha256 "92dcd204e3c6409f4c3d0dd1a5f1e8655b43b4dcdb38289be57bf9c6be118e2e"
   license "MIT"
 
   depends_on "node"
